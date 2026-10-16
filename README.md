@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Denis Ixcajoc 👋</h1> 
-<h2>Software Engineer</h2>
+<h2 align="center">Software Engineer</h2>
 <br>
 
 
